@@ -1,0 +1,23 @@
+{
+  "name": "jubshai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkaKitsune027/JUBSHAI.git"
+  },
+  "author": "Ploy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkaKitsune027/JUBSHAI/issues"
+  },
+  "homepage": "https://github.com/AkaKitsune027/JUBSHAI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
